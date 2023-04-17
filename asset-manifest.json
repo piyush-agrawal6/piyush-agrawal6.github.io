@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7c1f3e1.css",
-    "main.js": "/static/js/main.c70f40b5.js",
+    "main.css": "/static/css/main.a778c35f.css",
+    "main.js": "/static/js/main.4c5d7d80.js",
     "static/media/work-2.png": "/static/media/work-2.237a78ffd78a88112a30.png",
     "static/media/work-3.png": "/static/media/work-3.4688a7591480a513f4aa.png",
-    "static/media/work-4.png": "/static/media/work-4.45ba592bd9c13f6190fe.png",
     "static/media/work-5.png": "/static/media/work-5.476c53c87e013152120c.png",
-    "static/media/work-6.png": "/static/media/work-6.534bc06d07f7206a8b6d.png",
     "static/media/Piyush-Agrawal-Resume.pdf": "/static/media/Piyush-Agrawal-Resume.aa5b78e5efbe8aff8660.pdf",
     "static/media/about1.png": "/static/media/about1.8663bd2877a4fd08d1de.png",
     "static/media/work-1.jpg": "/static/media/work-1.9e0e99bc572807656b9f.jpg",
     "static/media/profile.webp": "/static/media/profile.dadb7ed067f9cd158f3d.webp",
     "index.html": "/index.html",
-    "main.d7c1f3e1.css.map": "/static/css/main.d7c1f3e1.css.map",
-    "main.c70f40b5.js.map": "/static/js/main.c70f40b5.js.map"
+    "main.a778c35f.css.map": "/static/css/main.a778c35f.css.map",
+    "main.4c5d7d80.js.map": "/static/js/main.4c5d7d80.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7c1f3e1.css",
-    "static/js/main.c70f40b5.js"
+    "static/css/main.a778c35f.css",
+    "static/js/main.4c5d7d80.js"
   ]
 }
