@@ -25,9 +25,6 @@ https://piyush-agrawal6.github.io/
 
 ## Screenshots
 
-
-
-
 - Home Page <br/> <br/>
 <a href="https://ibb.co/3YC68h9"><img src="https://i.ibb.co/GPjVMqJ/21-12-2022-13-53-42-REC.png" alt="20-12-2022-13-09-58-REC" border="0"></a>
 - Techstack Page <br/> <br/>
@@ -38,12 +35,6 @@ https://piyush-agrawal6.github.io/
 <a href="https://ibb.co/qdnVVK1"><img src="https://i.ibb.co/GHbJw78/21-12-2022-13-54-31-REC.png" alt="20-12-2022-13-08-59-REC" border="0"></a>
 - Contact Section <br/> <br/>
 <a href="https://ibb.co/C542Sp2"><img src="https://i.ibb.co/MG046G2/21-12-2022-13-54-47-REC.png" alt="20-12-2022-13-08-47-REC" border="0"></a>
-
-## Blog / Presentation
-
-Presentation - 
-
-Blog -
 
 
 ## Contributor
