@@ -1,4 +1,4 @@
-# CodeWithJoy - Portfolio
+# Piyush Agrawal - Portfolio
 All my top projects, skills and education are shown here with a user friendly UI. React js has been used to make the overall design and functionality.
 
 ## Tech Stack
