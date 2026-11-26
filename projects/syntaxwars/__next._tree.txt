@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/3q1elik2agrd0.css","style"]
+:HL["/_next/static/chunks/3hlre9z-t3h9k.css","style"]
 :HL["/fonts/manrope-latin-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/space-grotesk-latin-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/products/syntaxwars-home-compact.avif","image",{"type":"image/avif","fetchPriority":"high","media":"(max-width:650px)"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"syntaxwars","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131168,"c":"$Q2"}]]
-0:{"b":"uGZI7IVbfpnsFi1ck8MS4","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"0__WOv9PfR0BDg-CtC9AK","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
